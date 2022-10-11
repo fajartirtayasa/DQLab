@@ -1,2 +1,2 @@
 # DQLab
-https://academy.dqlab.id/main
+Visit https://academy.dqlab.id/main to start your journey in learning Data Science!
